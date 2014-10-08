@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# RunBro
+#
+
+projectname: RunBro
+vendorid: com.SirMiggy
+mainmodule: com.SirMiggy.runbro
